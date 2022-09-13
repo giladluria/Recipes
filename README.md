@@ -1,4 +1,4 @@
 A recipes list app
 using:
-React router, context and reducers
+React router, context, reducers and
 Firebase Firestore
